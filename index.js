@@ -8,3 +8,7 @@ function leashDog(dogName="Boo Radley", dogBreed="Pibble") {
 console.log(`Leash  ${dogName} the ${dogBreed}`);
 return `Leash ${dogName} the ${dogBreed}`
 }
+function walkToPark(dogName="Boo Radley", dogBreed="Pibble") {
+console.log(`Leash  ${dogName} the ${dogBreed}`);
+return `Leash ${dogName} the ${dogBreed}`
+}
